@@ -44,7 +44,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.patternTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.patternTextBox.Location = new System.Drawing.Point(13, 12);
+            this.patternTextBox.Location = new System.Drawing.Point(12, 12);
             this.patternTextBox.Name = "patternTextBox";
             this.patternTextBox.Size = new System.Drawing.Size(417, 25);
             this.patternTextBox.TabIndex = 1;
